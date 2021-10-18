@@ -1,3 +1,7 @@
+body {
+ background-color: #000;
+ background-image: url ("images/bg.jpg");
+}
 .zagolovok-1 {
   color: red;
 }
