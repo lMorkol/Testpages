@@ -30,3 +30,6 @@ p {
 header {
 	padding: 20px 0;
 }
+form[name="search"] {
+	float: right;
+}
