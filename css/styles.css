@@ -1,6 +1,6 @@
-body {
- background-image: url ("https://lmorkol.github.io/Testpages/images/bg.jpg");
+bg {
+ background-image: url(Testpages/images/bg.jpg);
 }
 .form {
-  color: red;
+  color: white;
 }
