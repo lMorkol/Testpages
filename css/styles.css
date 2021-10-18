@@ -76,3 +76,11 @@ h1 {
 	margin: 0;
 	padding: 0 10px;
 }
+aside {
+	float: left;
+	width: 250px;
+}
+section {
+	margin-left: 280px;
+	padding-bottom: 50px;
+}
