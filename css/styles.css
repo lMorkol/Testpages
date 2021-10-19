@@ -20,3 +20,8 @@ h1{
 body, html {
     height: 100%;
 }
+.alarm{
+  color: #bfbdbd;
+  position: absolute;
+  top: 270px;
+}
