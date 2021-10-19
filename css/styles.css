@@ -5,5 +5,7 @@
 }
 .form {
  position: absolute;
-  color: red;
+  color: #bfbdbd;
+ top: 8px;
+ left: 8px;
 }
