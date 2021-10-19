@@ -1,7 +1,9 @@
 .bg {
- position: relative;
-    text-align: center;
-    color: white;
+    background-image: url("images/bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .form {
  position: absolute;
@@ -14,4 +16,7 @@ h1{
   position:absolute;
   top: 10px;
   left: 5px;
+}
+body, html {
+    height: 100%;
 }
