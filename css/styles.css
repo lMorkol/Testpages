@@ -20,7 +20,7 @@ h1{
 body, html {
     height: 100%;
 }
-.handler.php{
-    position:absolute;
-    top:300px;
+handler.php{
+    position: absolute;
+    top: 298px;
 }
