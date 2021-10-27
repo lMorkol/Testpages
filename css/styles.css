@@ -6,10 +6,10 @@ body {
     background-size: cover;
 }
 .form {
- position: absolute;
-  color: #bfbdbd;
- top: 70px;
- left: 20px;
+    position: absolute;
+    color: #bfbdbd;
+    top: 95px;
+    left: 20px;
 }
 h1{
   color: #bfbdbd;
@@ -19,9 +19,4 @@ h1{
 }
 body, html {
     height: 100%;
-}
-.alarm{
-  color: #bfbdbd;
-  position: absolute;
-  top: 270px;
 }
