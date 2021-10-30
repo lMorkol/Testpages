@@ -28,3 +28,8 @@ body, html {
 .topsel{
     color: white;
 }
+.block_ct{
+    position: absolute;
+    top: 180px;
+    color: white;
+}
