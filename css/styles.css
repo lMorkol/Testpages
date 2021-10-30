@@ -8,21 +8,22 @@ body {
 .form {
     position: absolute;
     color: #bfbdbd;
-    top: 95px;
-    left: 20px;
+    top: 180px;
+    left: 40px;
 }
 h1{
   color: #bfbdbd;
   position:absolute;
-  top: 10px;
-  left: 20px;
+  top: 110px;
+  left: 30px;
 }
 body, html {
     height: 100%;
 }
 .textarea{
     position: absolute;
-    top: 298px;
+    top: 400px;
+    left: 40px;
 }
 .topsel{
     color: white;
