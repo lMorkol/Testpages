@@ -185,6 +185,7 @@
       <offer available="true" id="14567s14573">
         <url>http://istudio.su/apple/apple-iphone/iphone-11/apple-iphone-11-128gb-green/</url>
         <price>56480</price>
+        <test>test</test>
         <currencyId>RUB</currencyId>
         <categoryId>561</categoryId>
         <picture>http://istudio.su/wa-data/public/shop/products/67/45/14567/images/15019/15019.970.jpg</picture>
