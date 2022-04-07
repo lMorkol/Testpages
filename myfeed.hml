@@ -2,8 +2,8 @@
 <yml_catalog date="2021-12-10 13:00">
    <shop>
       <name>Тест api</name>
-      <company>ООО "ЭДИЛ-ИМПОРТ"</company>
-      <url>http://www.abc.ru/</url>
+      <company>Mor. corp.</company>
+      <url>http://www.morcorp.ru/</url>
       <currencies>
          <currency id="RUR" rate="1" />
          <currency id="USD" rate="80" />
