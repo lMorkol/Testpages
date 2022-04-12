@@ -31,7 +31,7 @@
                <option days="1" order-before="15" />
             </shipment-options>
             <outlets>
-               <outlet id="1" instock="50" />
+               <outlet id="2552" instock="50" />
             </outlets>
             <vendor>Indesit</vendor>
             <vendorCode>12345678</vendorCode>
