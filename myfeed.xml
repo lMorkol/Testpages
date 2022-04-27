@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2021-12-10 13:00">
+<yml_catalog date="2016-02-05 17:22">
    <shop>
-      <name>Тест api</name>
-      <company>Mor. corp.</company>
-      <url>http://www.morcorp.ru/</url>
+      <name>тест API</name>
+      <company>тест API</company>
+      <url>http://www.abc.ru/</url>
       <currencies>
          <currency id="RUR" rate="1" />
          <currency id="USD" rate="80" />
@@ -15,23 +15,22 @@
          <category id="3798">Бытовая техника</category>
          <category id="1293" parentId="3798">Холодильники</category>
       </categories>
-      <shipment-options>
-         <option days="2" order-before="21" />
-      </shipment-options>
       <offers>
          <offer id="158" available="true">
             <url>http://www.abc.ru/158.html</url>
             <name>Холодильник Indesit SB 185</name>
-            <price>35000</price>
-            <oldprice>27000</oldprice>      
+            <price>37000</price>
+            <oldprice>42000</oldprice>      
             <categoryId>1293</categoryId>
-            <picture>http://www.abc.ru/1580.jpg</picture>
+            <picture>http://www.abc.ru/1580-1.jpg</picture>
+            <picture>http://www.abc.ru/1580-2.jpg</picture>
+            <picture>http://www.abc.ru/1580-3.jpg</picture>
             <vat>1</vat>
             <shipment-options>
-               <option days="1" order-before="15" />
+               <option days="1" order-before="15"/>
             </shipment-options>
             <outlets>
-               <outlet id="2552" instock="50" />
+               <outlet id="13" instock="50"/>
             </outlets>
             <vendor>Indesit</vendor>
             <vendorCode>12345678</vendorCode>
@@ -46,33 +45,6 @@
             <param name="Материал">Натуральнаякожа</param>
             <param name="Странаизготовитель">Италия</param>
             <barcode>7564756475648</barcode>
-         <offer id="157" available="true">
-            <url>http://www.abc.ru/158.html</url>
-            <name>Телевизор samsung</name>
-            <price>45700</price>
-            <oldprice>54000</oldprice>      
-            <categoryId>1278</categoryId>
-            <picture>http://www.abc.ru/1580.jpg</picture>
-            <vat>1</vat>
-            <shipment-options>
-               <option days="1" order-before="15" />
-            </shipment-options>
-            <outlets>
-               <outlet id="2552" instock="50" />
-            </outlets>
-            <vendor>Indesit</vendor>
-            <vendorCode>12345238</vendorCode>
-            <model>Indesit SB 185</model>
-            <description>Холодильник Indesit SB 185</description>
-            <param name="Weight">120</param>
-            <param name="Width">70</param>
-            <param name="Length">250</param>
-            <param name="Height">180</param>
-            <param name="Габариты">10,5 x 6,5 x 1</param>
-            <param name="Бренд">Chatte</param>
-            <param name="Материал">Натуральнаякожа</param>
-            <param name="Странаизготовитель">Италия</param>
-            <barcode>7564756475648</barcode>         
          </offer>
       </offers>
    </shop>
