@@ -15,12 +15,15 @@
          <category id="3798">Бытовая техника</category>
          <category id="1293" parentId="3798">Холодильники</category>
       </categories>
+      <shipment-options>
+         <option days="2" order-before="21"/>
+      </shipment-options>
       <offers>
          <offer id="158" available="true">
             <url>http://www.abc.ru/158.html</url>
             <name>Холодильник Indesit SB 185</name>
-            <price>37000</price>
-            <oldprice>42000</oldprice>      
+            <price>32000</price>
+            <oldprice>41050</oldprice>      
             <categoryId>1293</categoryId>
             <picture>http://www.abc.ru/1580-1.jpg</picture>
             <picture>http://www.abc.ru/1580-2.jpg</picture>
